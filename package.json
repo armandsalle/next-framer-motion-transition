@@ -8,8 +8,14 @@
     "start": "next start"
   },
   "dependencies": {
+    "@zeit/next-sass": "^1.0.1",
+    "framer-motion": "^1.11.1",
     "next": "9.4.4",
+    "next-images": "^1.4.0",
+    "node-sass": "^4.14.1",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-progressive-image": "^0.6.0",
+    "sass": "^1.26.10"
   }
 }
